@@ -1,4 +1,4 @@
-##Welcome on my page😄
+Welcome on my page😄
 
 - 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), telegram: @miuvv
 - 🌱 I’m currently learning HTML, CSS, Python and JS
