@@ -1,7 +1,13 @@
-Welcome on my page😄
+# Hello! I'm Iuliia👋 
+## 👀 Welcome on my page 👀
 
+### About me
+
+I'm a frontend developer 💻
+
+- 🔋 Currently studying. Scope of education: HTML, JS, CSS, React.js, Pethon 
 - 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), telegram: @miuvv
-- 🌱 I’m currently learning HTML, CSS, Python and JS
+
 <!--
 **makarovaiuliia/makarovaiuliia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
