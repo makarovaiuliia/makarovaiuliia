@@ -6,7 +6,7 @@
 I'm a frontend developer 💻
 
 - 🔋 Currently studying. Scope of education: HTML, JS, CSS, React.js, Pethon 
-- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), telegram: @miuvv
+- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), telegram: @miuvv, [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/)
 
 <!--
 **makarovaiuliia/makarovaiuliia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
