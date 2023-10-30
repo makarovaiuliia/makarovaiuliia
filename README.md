@@ -7,7 +7,7 @@ I'm a frontend web-developer 💻 and I'm passion abput web, coding and learning
 
 - 📍 Based in Klosterneuburg, Austria.
 - 🔋 Currently studying in Yandex practicum. Scope of education: HTML, JavaScript, CSS, React.js, 
-- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/),  telegram: @miuvv
+- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/), [Instagram](https://www.instagram.com/juliasgram_/), telegram: @miuvv
 - 🔥 I love dogs, dancing and travelling.
 
 ### My educational projects
