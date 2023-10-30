@@ -3,10 +3,21 @@
 
 ### About me
 
-I'm a frontend developer 💻
+I'm a frontend web-developer 💻 and I'm passion abput web, coding and learning new things.
 
-- 🔋 Currently studying. Scope of education: HTML, JS, CSS, React.js, Pethon 
-- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), telegram: @miuvv, [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/)
+- 📍 Based in Klosterneuburg, Austria.
+- 🔋 Currently studying in Yandex practicum. Scope of education: HTML, JavaScript, CSS, React.js, 
+- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/),  telegram: @miuvv
+- 🔥 I love dogs, dancing and travelling.
+
+### My educational projects
+
+1. **Web-page project ["Do you need this?"](https://github.com/makarovaiuliia/EP-do-you-need-this):** a one-page web-site of an auction house. It presentes the information about the firm and shouws several lots.
+2. **Web-page project ["Look out of the window"](https://github.com/makarovaiuliia/posmotri_v_okno):** a web-page showing a "live" video of a chosen city. 
+
+### Open-sourse contribution
+
+I'm trying to give my attention to open-sourse projects. My first open-sourse project is NTH-calculator for Doka (link will be added).
 
 <!--
 **makarovaiuliia/makarovaiuliia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
