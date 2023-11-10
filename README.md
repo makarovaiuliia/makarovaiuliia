@@ -3,7 +3,7 @@
 
 ### About me
 
-I'm a frontend web-developer 💻 and I'm passion abput web, coding and learning new things.
+I'm a frontend web-developer 💻 and I'm passion about web, coding and learning new things.
 
 - 📍 Based in Klosterneuburg, Austria.
 - 🔋 Currently studying in Yandex practicum. Scope of education: HTML, JavaScript, CSS, React.js, 
