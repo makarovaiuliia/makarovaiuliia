@@ -17,7 +17,7 @@ I'm a frontend web-developer 💻 and I'm passion about web, coding and learning
 
 ### Open-sourse contribution
 
-I'm trying to give my attention to open-sourse projects. My first open-sourse project is NTH-calculator for Doka (link will be added).
+I'm trying to give my attention to open-sourse projects. My first open-sourse project is [NTH-calculator for Doka](https://doka.guide/css/child/) (end of the page).
 
 <!--
 **makarovaiuliia/makarovaiuliia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
