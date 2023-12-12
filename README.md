@@ -22,5 +22,5 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 
 ### Open-Source Contribution
 
-I am actively contributing to open-source projects. My first open-source project is the [NTH-calculator for Doka](https://doka.guide/css/child/) (see the end of the page).
+I am actively contributing to open-source projects. My first open-source project is the **[NTH-calculator for Doka](https://doka.guide/css/child/)** (see the end of the page).
 
