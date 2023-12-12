@@ -1,35 +1,26 @@
-# Hello! I'm Iuliia👋 
-## 👀 Welcome on my page 👀
+# Hello! I'm Iuliia 👋 
+## 👀 Welcome to my page 👀
 
-### About me
+### About Me
 
-I'm a frontend web-developer 💻 and I'm passion about web, coding and learning new things.
+I'm a frontend web developer 💻 with a passion for the web, coding, and learning new things.
 
 - 📍 Based in Klosterneuburg, Austria.
-- 🔋 Currently studying in Yandex practicum. Scope of education: HTML, JavaScript, CSS, React.js, 
-- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/), [Instagram](https://www.instagram.com/juliasgram_/), telegram: @miuvv
-- 🔥 I love dogs, dancing and travelling.
+- 🔋 Currently studying at Yandex Practicum. Scope of education: HTML, JavaScript, CSS, React.js.
+- 📫 How to reach me: [Email](mailto:iuliia.makarova.au@gmail.com), [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/), [Instagram](https://www.instagram.com/juliasgram_/), Telegram: @miuvv
+- 🔥 I love dogs, dancing, and travelling.
 
-### My educational projects
+### My Educational Projects - Yandex.practicum
 
-1. **Web-page project ["Do you need this?"](https://github.com/makarovaiuliia/EP-do-you-need-this):** a one-page web-site of an auction house. It presentes the information about the firm and shouws several lots.
-2. **Web-page project ["Look out of the window"](https://github.com/makarovaiuliia/posmotri_v_okno):** a web-page showing a "live" video of a chosen city. 
+1. **Web-page project ["Do You Need This?"](https://makarovaiuliia.github.io/EP-do-you-need-this/):** A one-page website for an auction house, presenting information about the firm and showcasing several lots.
+2. **Web-page project ["Look Out of the Window"](https://makarovaiuliia.github.io/posmotri_v_okno/):** A web page displaying a "live" video of a chosen city.
+3. **Web-page project ["Hard to concentrate"](https://makarovaiuliia.github.io/slozhno-sosredotochitsya/):** A web page with an article about concentration and ways for resist it.
 
-### Open-sourse contribution
+### My Educational Projects - RS.school
 
-I'm trying to give my attention to open-sourse projects. My first open-sourse project is [NTH-calculator for Doka](https://doka.guide/css/child/) (end of the page).
+1. **Web-page project ["Coffee house"](https://rolling-scopes-school.github.io/makarovaiuliia-JSFE2023Q4/coffee-house/):** A website for coffee house. Here you can see responsive web design and implemented JS functionality.
 
-<!--
-**makarovaiuliia/makarovaiuliia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open-Source Contribution
 
-Here are some ideas to get you started:
+I am actively contributing to open-source projects. My first open-source project is the [NTH-calculator for Doka](https://doka.guide/css/child/) (see the end of the page).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [e-mail](mailto:iuliia.makarova.au@gmail.com), telegram: @miuvv
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
