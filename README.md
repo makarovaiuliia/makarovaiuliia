@@ -19,6 +19,7 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 ### My Educational Projects - RS.school
 
 1. **Web-page project ["Coffee house"](https://rolling-scopes-school.github.io/makarovaiuliia-JSFE2023Q4/coffee-house/):** A website for coffee house. Here you can see responsive web design and implemented JS functionality.
+2. **[Hangman game](https://makarovaiuliia.github.io/hangman/)** A simple game, written with vanilla JS, HTML and CSS.
 
 ### Open-Source Contribution
 
