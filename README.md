@@ -16,7 +16,7 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 
 1. **Web-page project ["Look Out of the Window"](https://makarovaiuliia.github.io/posmotri_v_okno/):** A web page displaying a "live" video of a chosen city.
 2. **Web-page project ["Hard to concentrate"](https://makarovaiuliia.github.io/slozhno-sosredotochitsya/):** A web page with an article about concentration and ways for resist it. Fully responsive design and 2 page-themes.
-3. **Web-page project ["Place"](https://makarovaiuliia.github.io/mesto-project-ff/):** A web page with using vanilla JS, several APIs and modal windows. In this project only JS functionality is done by me.
+3. **Web-page project ["A place"](https://makarovaiuliia.github.io/mesto-project-ff/):** A web page with using vanilla JS, several APIs and modal windows. In this project only JS functionality is done by me.
 
 ### My Educational Projects - RS.school
 
