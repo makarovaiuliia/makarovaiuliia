@@ -15,7 +15,7 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 ### My Educational Projects - Yandex.practicum
 
 1. **Web-project ["Web-shop"](https://makarovaiuliia.github.io/web-larek-frontend/)** I used TypeScript and OOP approach for this project. It's a fully functioning project with API integration. HTML and CSS were not written by me. Here you can read [project documentation](https://github.com/makarovaiuliia/web-larek-frontend);
-3. **Web-page project ["Hard to concentrate"](https://makarovaiuliia.github.io/slozhno-sosredotochitsya/):** A web page with an article about concentration and ways for resist it. Fully responsive design with ability to change themes (dark/light);
+3. **Web-page project ["Hard to focus"](https://makarovaiuliia.github.io/slozhno-sosredotochitsya/):** A web page with an article about concentration and ways for resist it. Fully responsive design with ability to change themes (dark/light);
 4. **Web-page project ["A place"](https://makarovaiuliia.github.io/mesto-project-ff/):** A web page with using vanilla JS, API integration and modal windows. In this project only JS functionality is done by me;
 
 ### My Educational Projects - RS.school
