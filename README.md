@@ -29,3 +29,5 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 ### Open-Source Contribution
 
 I am actively contributing to open-source projects. My first open-source project is the **[NTH-calculator for Doka](https://doka.guide/css/child/)** (see the end of the page). Also you can find my work [here](https://doka.guide/people/makarovaiuliia/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makarovaiuliia&layout=compact)
