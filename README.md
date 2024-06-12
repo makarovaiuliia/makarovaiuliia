@@ -9,7 +9,7 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 - 🔋 Education: Higher School of Economics, Yandex Practicum and RS.school;
 - 💡 Skills: React, JavaScript, TypeScript, HTML, CSS, WebPack and etc;
 - 🫶🏻 I speak English (C1), Russian (native) and German (A2);
-- 📫 How to reach me: [Email](mailto:iuliia.makarova.au@gmail.com), [LinkedIn](https://www.linkedin.com/in/iuliia-makarova-8b2977263/), [Instagram](https://www.instagram.com/juliasgram_/), Telegram: @miuvv;
+- 📫 How to reach me: [Email](mailto:iuliia.makarova.au@gmail.com), [Instagram](https://www.instagram.com/juliasgram_/), Telegram: @miuvv;
 - 🔥 I love dogs, dancing, and travelling.
 
 ### My Educational Projects - Yandex.practicum
