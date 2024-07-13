@@ -1,4 +1,4 @@
-# Hello! I'm Iuliia 👋 
+# Hello! I'm Julia 👋 
 ## 👀 Welcome to my page 👀
 
 ### About Me
