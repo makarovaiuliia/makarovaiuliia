@@ -5,7 +5,6 @@
 
 I'm a frontend web developer 💻 with a passion for the web, coding, and learning new things.
 
-- 📍 Based in Vienna, Austria;
 - 🔋 Education: Higher School of Economics, Yandex Practicum and RS.school;
 - 💡 Skills: React, JavaScript, TypeScript, HTML, CSS, WebPack and etc;
 - 🫶🏻 I speak English (C1), Russian (native) and German (A2);
