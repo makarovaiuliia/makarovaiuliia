@@ -21,9 +21,5 @@ I'm a frontend web developer 💻 with a passion for the web, coding, and learni
 6. **[Hangman game](https://makarovaiuliia.github.io/hangman/)** A simple game, written with vanilla JS, HTML and CSS;
 7. **[Nonograms](https://rolling-scopes-school.github.io/makarovaiuliia-JSFE2023Q4/nonograms/)** picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the edges of the grid to reveal a hidden picture. The project was written in vanilla JS.
 
-### Open-Source Contribution
-
-I am actively contributing to open-source projects. One of my open-source projects is the **[NTH-calculator for Doka](https://doka.guide/css/child/)** (see the end of the page).
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makarovaiuliia&layout=compact)
 
